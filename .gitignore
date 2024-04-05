@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/HW18/v17
+/.vs
+/HW18/.vs/HW18/DesignTimeBuild
+/HW18/.vs/HW18/FileContentIndex
+/HW18/.vs/HW18/v17
+/HW18/.vs/ProjectEvaluation
+/HW18/ffmpeg-win64/doc
+/HW18/ffmpeg-win64
+/HW18/HW18/bin/Debug/net7.0
+/HW18/HW18/obj/Debug/net7.0
+/HW18/HW18/obj
